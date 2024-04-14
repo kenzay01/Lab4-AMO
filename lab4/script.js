@@ -154,3 +154,7 @@ const methodHord = function (a, b, E) {
 const myFunction = function (x) {
   return Math.pow(x, 2) - 20 * Math.sin(x);
 };
+
+cleanButton.addEventListener("click", function () {
+  window.location.reload();
+});

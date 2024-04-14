@@ -1,0 +1,26 @@
+.canvas {
+  display: none;
+  width: 600px;
+  height: 200px;
+}
+.canva-container {
+  display: flex;
+  justify-content: center;
+}
+.variant {
+  text-align: center;
+}
+.clean-container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+.clean {
+  display: none;
+}
+.calculate {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
